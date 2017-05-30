@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Factory>
+    <Factroy-BasicFunctionsPage>
+        com.example.matrixui.pageswitch.BasicFunctionsPage
+    </Factroy-BasicFunctionsPage>
+    
+    <Factroy-DetOfMatrixPage>
+        com.example.matrixui.pageswitch.DetOfMatrixPage
+    </Factroy-DetOfMatrixPage>
+    
+    <Factroy-EigenvaluePage>
+        com.example.matrixui.pageswitch.EigenvaluePage
+    </Factroy-EigenvaluePage>
+    
+    <Factroy-InverseMatrixPage>
+        com.example.matrixui.pageswitch.InverseMatrixPage
+    </Factroy-InverseMatrixPage>
+    
+    <Factroy-LinearEquationsPage>
+        com.example.matrixui.pageswitch.LinearEquationsPage
+    </Factroy-LinearEquationsPage>
+    
+    <Factroy-MultiplyIterativelyPage>
+        com.example.matrixui.pageswitch.MultiplyIterativelyPage
+    </Factroy-MultiplyIterativelyPage>
+    
+    <Factroy-RankOfMatrixPage>
+        com.example.matrixui.pageswitch.RankOfMatrixPage
+    </Factroy-RankOfMatrixPage>
+    
+    <Factroy-SchmidtOrthogonalPage>
+        com.example.matrixui.pageswitch.SchmidtOrthogonalPage
+    </Factroy-SchmidtOrthogonalPage>
+    
+    <Factroy-WelComePage>
+        com.example.matrixui.pageswitch.WelComePage
+    </Factroy-WelComePage>
+</Factory>
